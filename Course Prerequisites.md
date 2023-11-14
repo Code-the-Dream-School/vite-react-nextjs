@@ -18,6 +18,6 @@
 ## Assignment submission
 
 - Any way to block multiple assignment submissions?
-  - Git conflicts from mis-managing git workflows with multiple branches open.
+- Git conflicts from mis-managing git workflows with multiple branches open.
 - Marking assignment approved on Airtable form should send a success notice to both student and mentor.
 - Mentors need instruction on opening review on PR.
