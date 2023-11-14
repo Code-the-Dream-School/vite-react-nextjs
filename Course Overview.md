@@ -18,7 +18,7 @@ This course is an introduction to React and will provide you exposure to code fr
 
 As lessons build upon themselves and you work on your projects you will be able to watch them become fully-featured web applications.
 
-In **Part 1**, you will be introduced to [Vite](https://vitejs.dev/), a popular build tool that can get us started with a React application with minimal setup. Of historic interest, Create React App — "CRA" for short, was the most popular approac to scaffold a React project. In 2023 it is no longer being recommended by the core React development team and has fallen out of favor.
+In **Part 1**, you will be introduced to [Vite](https://vitejs.dev/), a popular build tool that can get us started with a React application with minimal setup. Of historic interest, Create React App — "CRA" for short, was the most popular approach to scaffold a React project. In 2023 it is no longer being recommended by the core React development team and has fallen out of favor.
 
 In **Part 2**, we expand our knowledge of the React ecosystem by adopting [NextJS](https://nextjs.org/). NextJS is a fully-fledged framework which, at its core, is a React application but with some [nice additional functionality](https://nextjs.org/docs#main-features). While it is a "full-stack framework" we will mostly be focusing on the React front-end. We will also take advantage of some server-side rendering technologies built into NextJS but we will not be will not be building an API or a database. We'll save that for another day ;-)
 
