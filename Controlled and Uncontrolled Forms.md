@@ -9,8 +9,6 @@ status: notStarted
 
 # Controlled and Uncontrolled Forms
 
-parent::[[React-Vite & Next JS Curriculum]]
-
 > [!note]
 > Start with an uncontrolled form then convert it to controlled.
 

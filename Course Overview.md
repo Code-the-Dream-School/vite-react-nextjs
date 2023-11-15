@@ -9,9 +9,6 @@ status: draft
 
 # Course Overview
 
-parent::[[React-Vite & Next JS Curriculum]]
-related::[[Curriculum Outline]]
-
 ## Overview
 
 This course is an introduction to React and will provide you exposure to code from 4 React applications: 2 plain React and 2 using NextJS. Along the way, we will:
