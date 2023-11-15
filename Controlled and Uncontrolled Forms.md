@@ -1,9 +1,18 @@
 ---
-tags: react 
+tags:
+  - react
 week: 4
+dateCreated: 2023-07-07 21_49_33
+dateModified: 2023-11-11 10_00_22
+status: notStarted
 ---
 
 # Controlled and Uncontrolled Forms
+
+parent::[[React-Vite & Next JS Curriculum]]
+
+> [!note]
+> Start with an uncontrolled form then convert it to controlled.
 
 ## Introduction
 
@@ -14,7 +23,7 @@ week: 4
 
 ### Lessons Outcome
 
-After going through this section you will understand...
+After going through this section you will understand…
 
 ## Discussion
 
@@ -30,4 +39,4 @@ At the conclusion of these instructions, your application should:
 
 ### Instructions Part 2
 
-### Instructions Part n
+### Instructions Part N

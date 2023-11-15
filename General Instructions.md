@@ -1,6 +1,10 @@
 ---
-tags: react 
+tags:
+  - react
 week: 0
+dateCreated: 2023-07-08 10_26_39
+dateModified: 2023-11-11 10_07_23
+status: draft
 ---
 
 # General Instructions
@@ -39,13 +43,11 @@ git checkout -b <lesson-name>
 
 1. Ensure your React or NextJS application works as expected in browser before submission.
 2. Perform code cleanup:
-
-- remove any
-- private comments
-- commented-out code
-- `console.log()` or `debugger` statements
-- clean up formatting (indentation, spaces around brackets, etc.)
-
+	- remove any
+		- private comments
+		- commented-out code
+		- `console.log()` or `debugger` statements
+	- clean up formatting (indentation, spaces around brackets, etc.)
 3. Check the status of your local repository to double-check the changes you made:
 
 ```bash

@@ -1,6 +1,10 @@
 ---
-tags: react 
+tags:
+  - react
 week: 13
+dateCreated: 2023-07-07 21_58_09
+dateModified: 2023-11-07 08_57_58
+status: notStarted
 ---
 
 # Routing and Client-Side Navigation
@@ -15,7 +19,7 @@ week: 13
 
 ### Lessons Outcome
 
-After going through this section you will understand...
+After going through this section you will understand…
 
 ## Discussion
 
@@ -31,4 +35,4 @@ At the conclusion of these instructions, your application should:
 
 ### Instructions Part 2
 
-### Instructions Part n
+### Instructions Part N

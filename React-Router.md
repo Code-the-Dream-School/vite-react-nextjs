@@ -1,6 +1,10 @@
 ---
-tags: react 
+tags:
+  - react
 week: 7
+dateCreated: 2023-07-07 21_52_40
+dateModified: 2023-11-07 08_57_45
+status: notStarted
 ---
 
 # React-Router
@@ -10,11 +14,11 @@ week: 7
 ### Topics Covered
 
 - React-Router
-- useContext...maybe??
+- Comparison to useContext
 
 ### Lessons Outcome
 
-After going through this section you will understand...
+After going through this section you will understand…
 
 ## Discussion
 
@@ -30,4 +34,4 @@ At the conclusion of these instructions, your application should:
 
 ### Instructions Part 2
 
-### Instructions Part n
+### Instructions Part N

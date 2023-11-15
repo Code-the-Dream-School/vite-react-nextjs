@@ -1,6 +1,10 @@
 ---
-tags: react 
+tags:
+  - react
 week: 12
+dateCreated: 2023-07-07 21_56_22
+dateModified: 2023-11-07 08_57_03
+status: notStarted
 ---
 
 # Deploying a Next.js App
@@ -13,7 +17,7 @@ week: 12
 
 ### Lessons Outcome
 
-After going through this section you will understand...
+After going through this section you will understand…
 
 ## Discussion
 
@@ -29,4 +33,4 @@ At the conclusion of these instructions, your application should:
 
 ### Instructions Part 2
 
-### Instructions Part n
+### Instructions Part N

@@ -1,6 +1,10 @@
 ---
-tags: react 
+tags:
+  - react
 week: 8
+dateCreated: 2023-07-07 21_53_33
+dateModified: 2023-11-07 08_56_44
+status: notStarted
 ---
 
 # CSS and Images
@@ -15,7 +19,7 @@ week: 8
 
 ### Lessons Outcome
 
-After going through this section you will understand...
+After going through this section you will understand…
 
 ## Discussion
 
@@ -31,4 +35,4 @@ At the conclusion of these instructions, your application should:
 
 ### Instructions Part 2
 
-### Instructions Part n
+### Instructions Part N

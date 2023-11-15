@@ -1,6 +1,10 @@
 ---
-tags: react 
+tags:
+  - react
 week: 6
+dateCreated: 2023-07-07 21_51_40
+dateModified: 2023-11-07 08_58_03
+status: notStarted
 ---
 
 # useEffect and Working with APIs
@@ -17,7 +21,7 @@ week: 6
 
 ### Lessons Outcome
 
-After going through this section you will understand...
+After going through this section you will understand…
 
 ## Discussion
 
@@ -33,4 +37,4 @@ At the conclusion of these instructions, your application should:
 
 ### Instructions Part 2
 
-### Instructions Part n
+### Instructions Part N

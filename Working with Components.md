@@ -1,6 +1,10 @@
 ---
-tags: react 
+tags:
+  - react
 week: 3
+dateCreated: 2023-07-07 21_47_28
+dateModified: 2023-11-09 08_26_22
+status: notStarted
 ---
 
 # Working with Components
@@ -9,14 +13,14 @@ week: 3
 
 ### Topics Covered
 
-- children
 - key (correct and incorrect creation)
+- callbacks, props, children
 - useState: information flow in react components (props, callbacks)
 - useRef: referencing dom, re-focusing inputs, keeping track of values without re-rendering, other imperative javascript operations
 
 ### Lessons Outcome
 
-After going through this section you will understand...
+After going through this section you will understand…
 
 ## Discussion
 
@@ -32,4 +36,4 @@ At the conclusion of these instructions, your application should:
 
 ### Instructions Part 2
 
-### Instructions Part n
+### Instructions Part N

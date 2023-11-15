@@ -1,9 +1,13 @@
 ---
-tags: react 
+tags:
+  - react
 week: 9
+dateCreated: 2023-07-07 21_54_05
+dateModified: 2023-11-07 08_57_50
+status: notStarted
 ---
 
-# Untitled
+# Refactoring Components
 
 ## Introduction
 
@@ -15,7 +19,7 @@ week: 9
 
 ### Lessons Outcome
 
-After going through this section you will understand...
+After going through this section you will understand…
 
 ## Discussion
 
@@ -31,4 +35,4 @@ At the conclusion of these instructions, your application should:
 
 ### Instructions Part 2
 
-### Instructions Part n
+### Instructions Part N

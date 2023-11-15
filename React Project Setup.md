@@ -1,6 +1,10 @@
 ---
-tags: react 
+tags:
+  - react
 week: 1
+dateCreated: 2023-07-07 21_46_20
+dateModified: 2023-11-13 06_47_36
+status: inProgress
 ---
 
 # React Project Setup
@@ -12,7 +16,6 @@ week: 1
 - development requirements
 - git repo and development workflow
 - Vite react template installation
-- helper tools installation (Prettier, ESLint)
 - project structure
 
 ### Lessons Outcome
@@ -23,13 +26,13 @@ After completing this section, you will gain an understanding on:
 - the repo's folder and document structure
 - how to navigate between directories in the console
 
+## Project Instructions
+
 At the conclusion of the project instructions below, your project should:
 
 - contain all the directories needed to complete part 1 of this course
 - be version controlled using git
 - have your first installed React application
-
-## Project Instructions
 
 ### Development Requirements
 
@@ -65,7 +68,7 @@ This may feel odd starting work on someone else's code at first but this will al
  5. Clone the repo locally by typing `git clone` and then pasting that remote git url. Then hit enter.
  6. `cd`
 
-#### 1. Complete the "Before Each Lesson" Tasks (lesson weeks 1-9)
+#### 1. Complete the "Before Each Lesson" Tasks (lesson Weeks 1-9)
 
 *This step not needed for lesson 0 as there is no work to merge yet.*
 
@@ -78,10 +81,10 @@ git checkout main
 git pull
 ```
 
-2. Create new branch for lesson <student-name/lesson-name>
+1. Create new branch for lesson <student-name/lesson-name>
  - For example `roy-mosby/react-router`
 
-#### 2. Install React (lesson weeks 0-9)
+#### 2. Install React (lesson Weeks 0-9)
 
 1. Navigate to current week's directory `cd week-{n}` where `n` is the week number.
 2. Use the command `npm -i` to install the React project
@@ -103,3 +106,5 @@ git pull
   - against own! not CTD
   - take note of PR link
 - Fill out weekly assignment form & include link
+
+## References and Further Reading
